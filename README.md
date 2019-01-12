@@ -5,17 +5,31 @@ Go的数据结构与算法，后续看情况补充
 
 ##### Slice：自定义切片，跟C语言交互
 
+[Slice](https://github.com/xuefengyuan/GoStruct/tree/master/src/Slice.go)
+
 ##### LinkList：单向链表
+
+[LinkList](https://github.com/xuefengyuan/GoStruct/blob/master/src/LinkList.go)
 
 ##### TwoWayLinkList：双向链表
 
+[TwoWayLinkList](https://github.com/xuefengyuan/GoStruct/blob/master/src/TwoWayLinkList.go)
+
 ##### CiroularLinkList：循环链表
+
+[CiroularLinkList](https://github.com/xuefengyuan/GoStruct/blob/master/src/CiroularLinkList.go)
 
 ##### Stack：栈链表
 
+[Stack](https://github.com/xuefengyuan/GoStruct/blob/master/src/Stack.go)
+
 ##### Queue：队列链表
 
+[Queue](https://github.com/xuefengyuan/GoStruct/blob/master/src/Queue.go)
+
 ##### BinaryTree：二叉树
+
+[BinaryTree](https://github.com/xuefengyuan/GoStruct/blob/master/src/BinaryTree.go)
 
 ```go
 func testBinaryNode() {
@@ -89,11 +103,17 @@ func testBinaryNode() {
 
 ##### BubbleSort：冒泡排序
 
+[BubbleSort](https://github.com/xuefengyuan/GoStruct/blob/master/src/BubbleSort.go)
+
 - 冒泡排序优化
 
 ##### SelectSort：选择排序
 
+[SelectSort](https://github.com/xuefengyuan/GoStruct/blob/master/src/SelectSort.go)
+
 ##### InsertSort：插入排序
+
+[InsertSort](https://github.com/xuefengyuan/GoStruct/blob/master/src/InsertSort.go)
 
 变相排序  基于大量重复 在某一个范围内
 
@@ -124,13 +144,21 @@ func InsertSort1() {
 
 ##### ShellSort：希尔排序
 
+[ShellSort](https://github.com/xuefengyuan/GoStruct/blob/master/src/ShellSort.go)
+
 ##### QuickSort：快速排序
+
+[QuickSort](https://github.com/xuefengyuan/GoStruct/blob/master/src/QuickSort.go)
 
 ##### HeapInit：堆排序
 
+[HeapInit](https://github.com/xuefengyuan/GoStruct/blob/master/src/HeapInit.go)
+
 ##### BinarySearch：二分查找
 
-注意：二分查找的数据，必需要是有序的
+[BinarySearch](https://github.com/xuefengyuan/GoStruct/blob/master/src/BinarySearch.go)
+
+<font color=red>注意：二分查找的数据，必需要是有序的</font>
 
 
 
